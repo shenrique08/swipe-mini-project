@@ -1,15 +1,13 @@
 # Swipe Payments Landing Page
 
-![Swipe Landing Page Preview](assets/hero-phone.png)
-
-A modern, responsive landing page for a payment processing platform called Swipe. This project was created as part of Colt Steele's HTML & CSS Bootcamp, showcasing advanced frontend development techniques.
+A modern, responsive landing page for a payment processing platform called Swipe. This project was created as part of Colt Steele's HTML & CSS Bootcamp, showcasing frontend development techniques.
 
 ## Features
 
 - **Animated Gradient Background**: Custom WebGL gradient animation that creates a dynamic, eye-catching hero section
 - **Fully Responsive Design**: Adapts seamlessly from mobile to desktop with carefully crafted media queries
 - **Modern UI Components**: Includes cards, buttons, grids, and navigation elements with smooth hover effects
-- **Performance Optimized**: Efficient CSS with variables and minimal JavaScript for fast loading
+- **Performance Optimized**: Efficient CSS with variables
 - **Cross-Browser Compatible**: Works across all modern browsers
 
 ## Technologies Used
@@ -37,12 +35,6 @@ A modern, responsive landing page for a payment processing platform called Swipe
    - Card components with consistent styling
    - Partner logo grid with responsive sizing
 
-## How to Use
-
-1. Clone this repository
-2. Open `index.html` in your browser
-3. No build process or dependencies required
-
 ## What I Learned
 
 - Advanced CSS layout techniques with Flexbox and Grid
@@ -59,7 +51,3 @@ A modern, responsive landing page for a payment processing platform called Swipe
 ## License
 
 This project is open source and available under the MIT License.
-
----
-
-For more of my projects, visit [GitHub Profile URL]
