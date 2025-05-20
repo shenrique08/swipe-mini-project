@@ -1,1 +1,65 @@
-# swipe-mini-project
+# Swipe Payments Landing Page
+
+![Swipe Landing Page Preview](assets/hero-phone.png)
+
+A modern, responsive landing page for a payment processing platform called Swipe. This project was created as part of Colt Steele's HTML & CSS Bootcamp, showcasing advanced frontend development techniques.
+
+## Features
+
+- **Animated Gradient Background**: Custom WebGL gradient animation that creates a dynamic, eye-catching hero section
+- **Fully Responsive Design**: Adapts seamlessly from mobile to desktop with carefully crafted media queries
+- **Modern UI Components**: Includes cards, buttons, grids, and navigation elements with smooth hover effects
+- **Performance Optimized**: Efficient CSS with variables and minimal JavaScript for fast loading
+- **Cross-Browser Compatible**: Works across all modern browsers
+
+## Technologies Used
+
+- **HTML5**: Semantic markup for better accessibility and SEO
+- **CSS3**: Advanced features like Flexbox, Grid, variables, and transitions
+- **JavaScript**: For the interactive gradient animation
+- **WebGL**: Powers the smooth gradient animation in the background
+- **Google Fonts**: Uses Roboto and Anek Telugu for typography
+
+## Key Implementation Details
+
+1. **Gradient Animation**:
+   - Custom WebGL implementation with configurable colors
+   - Smooth performance with requestAnimationFrame
+   - Responsive to window resizing
+
+2. **Responsive Layout**:
+   - Mobile-first approach
+   - Complex grid layouts that adapt at different breakpoints
+   - Hamburger menu for mobile navigation
+
+3. **UI Components**:
+   - Custom button styles with hover effects
+   - Card components with consistent styling
+   - Partner logo grid with responsive sizing
+
+## How to Use
+
+1. Clone this repository
+2. Open `index.html` in your browser
+3. No build process or dependencies required
+
+## What I Learned
+
+- Advanced CSS layout techniques with Flexbox and Grid
+- Creating responsive designs with media queries
+- Implementing complex animations with WebGL
+- Optimizing performance for modern web applications
+- Structuring large CSS projects with variables and components
+
+## Credits
+
+- Instructor: Colt Steele (HTML & CSS Bootcamp)
+- Gradient animation adapted from open source WebGL implementations
+
+## License
+
+This project is open source and available under the MIT License.
+
+---
+
+For more of my projects, visit [GitHub Profile URL]
