@@ -1,4 +1,4 @@
-[swipe payments landing page](https://shenrique08.github.io/swipe-mini-project/)
+[see the project here <-](https://shenrique08.github.io/swipe-mini-project/)
 
 # Swipe Payments Landing Page
 
