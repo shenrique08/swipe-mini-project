@@ -2,7 +2,7 @@
 
 # Swipe Payments Landing Page
 
-A modern, responsive landing page for a payment processing platform called Swipe. This project was created as part of Colt Steele's HTML & CSS Bootcamp, showcasing frontend development techniques.
+A modern, fully responsive landing page for a fictional payment platform using HTML5, CSS3, and JavaScript. Implemented a dynamic hero section with a custom WebGL gradient animation. The design adapts seamlessly across mobile, tablet, and desktop devices, demonstrating advanced CSS layout techniques, including Flexbox and Grid.
 
 ## Features
 
